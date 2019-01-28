@@ -1,0 +1,26 @@
+Hola ___nombre___,
+
+Gracias por aceptar hablar en Fullstack Nights! El próximo evento será el ___fecha___. Fullstack Night se creó con la intensión de mejorar la calidad de los meetups en la isla. Queremos estar 100% seguros que no tenga problemas dando su charla y que el contenido presentado el día del evento y en el canal de YouTube sea de la más alta calidad posible. Por esto le queremos mencionar unos puntos antes del día del evento:
+
+• La presentación debe ser practicada con los miembros de FSN la semana antes del evento. Se llevarán acabo dos prácticas de ser necesario. La primera práctica es obligatoria y la segunda es opcional. Más detalles a continuación.
+• Su presentación puede ser en inglés o en español.
+• La presentación es de 20 minutos y 5 minutos para preguntas después de concluir la presentación.
+• Su presentación y su pantalla serán grabadas y publicadas en YouTube luego de ser editadas. (http://www.youtube.com/channel/UCiJwjxdD9XIjRpV__kW2wsw)
+• Los slides de su presentación deben ser 4:3(square) y no 16:9(widescreen).
+• El día del evento se le proveerá una máquina con su presentación y con el screen capture software que usaremos para grabar sus slides. Debido a que no estará usando su máquina exhortamos a nuestros conferenciantes a no hacer live demos. Preferimos que grabe su demo y lo explique durante su presentación.
+• Su presentación debe ser enviada a ______ (___email___) o ______ (___email___) el ___día___, ____fecha___.
+• El evento comienza a las 7:00 pm AST y las presentaciones comenzarán a las 7:30 pm AST. En FSN somos puntuales por lo tanto agradeceremos que llegue temprano.
+
+Práctica de la presentación:
+La semana antes de la presentación se realizan prácticas con los participantes. El propósito de dichas prácticas es proveer feedback su presentación. Las prácticas puede ser por Google Hangout o Skype.
+
+La primera práctica se realizara durante el lunes, martes o miércoles. Durante esta práctica buscamos examinar la estructura de la presentación, el tiempo que le toma al conferenciante dar la presentación y el dominio del material. Los slides de la presentación no tienen que estar completos ni perfectos pero el material a presentar debe estar estructurado.
+
+La segunda práctica se realizará de ser necesaria y/o si el conferenciante asi lo desea. Dicha práctica busca examinar que el feedback provisto durante la primera práctica sea implementado en la presentación.
+
+Promoción del evento:
+Para promocionar el evento y actualizar la página de FSN necesitamos:
+   1- "Profile picture" que quiera usar en nuestra página.
+   2- User handle para alguna redsocial (opcional).
+
+Gracias!
