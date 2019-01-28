@@ -1,0 +1,26 @@
+Hello ___name___,
+
+Thank you for accepting to be a speaker in Fullstack Nights! The next event will be on ___date___. Your talk will be ___title___. Fullstack Nights was created with the intention to improve the quality of meetups in the island. We want to make sure that you don't run into any trouble on the day of the event and that your presentation is of the highest quality possible. That being said, we'd like to mention a couple of things before the event:
+
+
+Presentation details overview:
+• The presentation will be 20 minutes and 5 minutes of Q&A after the presentation is over.
+• Your presentation and your screen will be recorded and published to YouTube after being edited. (https://www.youtube.com/channel/UCiJwjxdD9XIjRpV__kW2wsw)
+• Your slides must be 4:3 (square) not 16:9 (widescreen).
+• The day of the event a computer will be provided with the screen capture software. Because you won't be using your computer we do not advise live demos. Please pre-record any demo and explain it during the presentation.
+• Please keep your language at a PG rating. If we have to bleep it, it shouldn’t be in the talk.
+• Our crowd is a mixture of engineers and designers, don't feel bad if somebody doesn't understand.
+• Your presentation must be sent to _______ (_____email______) or _______ (_____email______) on ___date___.
+• The event starts at 7:00 pm AST and the presentation start at 7:30 pm AST. Please be punctual.
+
+Presentation Rehearsal:
+The week before the event we would like to have a presentation rehearsal in order to provide feedback. The talk and slides don’t need to be finished nor perfect, we just provide feedback about the overall structure of the presentation and the time it takes for the speaker to present. The rehearsal can be done through Google Hangouts or Skype.
+
+Please let me know which day and hour work best for you.
+Anything after 7:00 pm AST usually works well for us.
+
+Event promotion:
+In order to promote the event on our social networks, we'll need a picture of you to update our site and create promos. If you have social handles that you're comfortable sharing please feel free to send them as well.
+
+Have fun!
+Thank you again!!
